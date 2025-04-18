@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url('../images/background.jpg');
+    background-image: url('s3://ccl-project-samad/dark-gradient (1) - Copy.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
